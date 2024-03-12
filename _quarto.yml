@@ -1,0 +1,51 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  open-graph: true
+  site-url: https://ramatoulayebah.github.io/
+  title: "Ramatoulaye Bah"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: relevant_courses.qmd
+        text: Relevant Courses
+      - href: projects.qmd
+        text: Projects
+      - href: cv.qmd
+        text: CV
+      - text: Contact
+        menu:
+          - icon: linkedin
+            text: LinkedIn
+            href: https://www.linkedin.com/in/ramatoulaye-bah-aa8b4a271/
+            target: _blank
+          - icon: envelope
+            text: Email
+            href: mailto:Ramatoulaye.bah2805@gmail.com
+      - icon: github
+        href: https://github.com/RamatoulayeBah28
+        target: _blank
+        
+page-footer:
+    background: light
+    left: |
+      &copy; Ramatoulaye Bah, 2023<br>
+      All content licensed under <i class='bi-badge-cc'></i>
+      [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+    right: |
+      Site built with <a href='https://quarto.org/'>Quarto</a>
+
+format:
+  html:
+    page-layout: full
+    sidebar: false
+    theme: 
+      - styles.scss
+    mainfont: Nunito
+    toc: true
+
+editor: visual
+

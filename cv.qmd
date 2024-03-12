@@ -1,0 +1,72 @@
+---
+title: "Ramatoulaye Bah - CV"
+editor: visual
+---
+
+## Overview
+
+**Currently:** Freshman student double majoring in Computer Science and Linguistics with a minor in Spanish at Macalester College working as a Library Access & Research Aide at the DeWitt Wallace Library. **Previously:** [United World College](https://www.uwc.org/) Alumna receiver of a full scholarship to study in a prestigious liberal arts school in the US and another to study at an international high school in the Netherlands
+
+## Education
+
+**Macalester College: Bachelor of Arts, Computer Science & Linguistics. 4.0 GPA (Expected May 2027)**
+
+-   Relevant Coursework: Object-Oriented Programming, Core Concepts in CS, Multivariable Calculus I, Harvard CS50x’s Introduction to Computer Science
+- Awards: Davis UWC Scholarship, Kofi Annan Scholarship
+-   Macalester College, Saint Paul, MN 55105
+
+**United World College Maastricht: IB Bilingual Diploma Program (Awarded May 2023)**
+
+-   IB Grade: 36/42. HL: French LL, English B, Global Politics
+- Activities: Coding Club Leader, Decolonise Club Co-Leader, Project Beauty Co-Founder and Co-Leader, Shut Up & Write Co-Leader, Library Supervisor Volunteer, Model UN Club Member, Spirit Team Member, Member of Local Soccer Club 
+- Awards: UWC France Full-Scholarship
+-   United World College Maastricht, Maastricht, The Netherlands 6225 XP
+
+**Lycée Polyvalent Eugène Ionesco (Not Expected)**
+
+-   Moyenne Générale: 17/20. Seconde Générale et Technologique acceptée en Première Générale avec spécialités mathématiques, physique-chimie, sciences de l'ingénieur
+-   Activities: UNESCO Club Member, Class Representative, 3rd Division Soccer Player
+-   Lycée Polyvalent Eugène Ionesco, Issy-les-Moulineaux, France 92130
+
+## Experience
+
+**DeWitt Wallace Library**
+**Library Access & Research Aide (Sept 2023 – Present)**
+
+-   Aided patrons with resource acquisition by processing materials, which included checking items out and checking them in when returned.
+-   Improved user satisfaction through courteous and prompt customer service and by assisting patrons in finding materials, using computers, printing and answering inquiries.
+-   Conducted research assistance for students, helping them navigate databases and online resources effectively (interlibrary loans, course reserves, etc).
+
+**826 MSP**
+**After-School Creative Lab Tutor - Volunteer (Oct 2023 - Present)**
+
+826 MSP empowers BIPOC K–12 students to think creatively, write effectively, and succeed academically. 
+
+-   Developed strong relationships with children through clear communication and active listening skills, fostering a positive learning environment.
+-   Assisted children with reading, literacy activities, homework, and creative writing.
+
+
+## Leadership and Activities
+
+**Decolonise Club - Co-Leader**
+
+-   Discuss the impact of colonialism, socio-economic issues and the impact we can have on the school.
+-   Led weekly group sessions on various social issues (e.g. white-savorism, fetishization in pop culture, privilege, neo- colonialism, critical race theory) and offered a discussion space for BIPOC students.
+-   Organized educational and interactive workshops for school sponsors while contributing to the school’s DEIJ policy.
+
+**Mathematics, Statistics, Computer Science Student Advisory Board - Member**
+
+- Planned career-related events and workshops such as Summer Opportunities Mentorship Panels, DS Portfolio Website using RStudio, and Introduction to LeetCode.
+- Organized and led monthly BIPOC in MSCS nights, overseeing logistics, promotion, food arrangements, and space setup. 
+- Coordinated Student Feedback Sessions to close the gap between faculty and students and improve overall satisfaction.
+
+## Skills & Interests
+
+**Soft Skills:** Customer Service, Critical Thinking, Teamwork
+
+**Technical:** Python, Java, C, RStudio, Algorithm, Data Structures, HTML, CSS, JavaScript
+
+**Interests:** Soccer, Social Justice, Travel, Books 
+
+**Languages:** French (Native), English (Fluent), Spanish (Advanced)
+

@@ -1,0 +1,14 @@
+{
+  "hash": "f0cefd3ac6e6dc1f89c53edfecb8079c",
+  "result": {
+    "markdown": "---\ntitle: \"\"\nimage: images/profilepic.jpg\ntoc: false\nabout: \n  template: jolla\n  image-shape: round\n  image-width: 14em\n  links:\n    - icon: linkedin\n      text: LinkedIn\n      href: https://www.linkedin.com/in/ramatoulaye-bah-aa8b4a271/\n      target: _blank\n    - icon: github\n      text: GitHub\n      href: https://github.com/RamatoulayeBah28\n      target: _blank\n    - icon: envelope\n      text: Email\n      href: mailto:Ramatoulaye.bah2805@gmail.com\n---\n\n\n### About Me\n\n:::{#intro-heading}\n\nI'm currently a Freshman student at Macalester College. I plan on pursuing a Bachelor of Arts Degree with double majors in Computer Science and Linguistics. I was born and grew up in France in a Guinean household and studied at UWC Maastricht in the Netherlands for two years where I obtained my International Baccalaureate Bilingual Diploma. I'm passionate about soccer, languages, social justice, and discovering new things every day!\n\n## Education\n\nMacalester College | St. Paul MN <br>\nB.A. in Computer Science & Linguistics | Sept 2023 - May 2027\n\n:::\n\n\n::: {.cell}\n\n```{.r .cell-code}\n\"Ramatoulaye.bah2805@gmail.com\"\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"Ramatoulaye.bah2805@gmail.com\"\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

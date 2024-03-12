@@ -1,0 +1,34 @@
+---
+title: ""
+toc: false
+about: 
+  template: jolla
+  image: images/croppedprofilepic.jpg
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ramatoulaye-bah-aa8b4a271/
+      target: _blank
+    - icon: github
+      text: GitHub
+      href: https://github.com/RamatoulayeBah28
+      target: _blank
+    - icon: envelope
+      text: Email
+      href: mailto:Ramatoulaye.bah2805@gmail.com
+---
+
+### About Me
+
+:::{#intro-heading}
+
+I'm currently a Freshman student at Macalester College. I plan on pursuing a Bachelor of Arts Degree with double majors in Computer Science and Linguistics. I was born and grew up in France in a Guinean household and studied at UWC Maastricht in the Netherlands for two years where I obtained my International Baccalaureate Bilingual Diploma. I'm passionate about soccer, languages, social justice, and discovering new things every day!
+
+## Education
+
+Macalester College | St. Paul MN <br>
+B.A. in Computer Science & Linguistics | Sept 2023 - May 2027
+
+:::
