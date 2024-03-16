@@ -1,8 +1,8 @@
 ---
 title: "Projects"
-subtitle: "Here are my projects." 
+# subtitle: "Some of my Recent Projects" 
 listing:
-  contents: projects
+  contents: Projects
   feed: true
   sort: "date desc"
   type: grid
@@ -10,10 +10,8 @@ listing:
   grid-item-align: left
   max-description-length: 175
   date-format: medium
-  #categories: numbered
   sort-ui: false
   filter-ui: false
 page-layout: full
 title-block-banner: true
 ---
-

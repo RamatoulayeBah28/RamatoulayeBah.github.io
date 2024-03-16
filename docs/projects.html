@@ -71,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: [{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -94,8 +94,8 @@ ul.task-list li input[type="checkbox"] {
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="alternate" type="application/rss+xml" title="Ramatoulaye Bah" href="projects.xml"><meta property="og:title" content="Ramatoulaye Bah - Projects">
-<meta property="og:description" content="Here are my projects.">
+<meta property="og:title" content="Ramatoulaye Bah - Projects">
+<meta property="og:image" content="./Projects/Cupid's Game Jam/gamepage.png">
 <meta property="og:site-name" content="Ramatoulaye Bah">
 </head>
 
@@ -119,6 +119,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html" rel="" target="">
+ <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./relevant_courses.html" rel="" target="">
@@ -166,7 +170,6 @@ ul.task-list li input[type="checkbox"] {
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page">
       <h1 class="title">Projects</h1>
-            <p class="subtitle lead">Here are my projects.</p>
                       </div>
   </div>
     
@@ -197,7 +200,81 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1708581600000" data-listing-file-modified-sort="1710574430428" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<a href="./Projects/Cupid's Game Jam/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./Projects/Cupid's Game Jam/gamepage.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+A Squirrel’s Tail
+</h5>
+<div class="card-text listing-description">
+<p>Valentine’s Day themed platform game made under 48H as part of the first Macalester College Game Jam implemented using PyGame</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
 
+</div>
+<div class="listing-date">
+Feb 22, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-date-sort="1703138400000" data-listing-file-modified-sort="1710571726790" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<a href="./Projects/Hangman Game/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./Projects/Hangman Game/hangmangame.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Hangman Game
+</h5>
+<div class="card-text listing-description">
+<p>a Macalester College themed classic hangman game implemented using Tkinter as part of my COMP 123 - Core Concepts in Computer Science final project</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Dec 21, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-date-sort="1650603600000" data-listing-file-modified-sort="1710577514842" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./Projects/Project Beauty/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./Projects/Project Beauty/projectbeautylogo.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Project Beauty
+</h5>
+<div class="card-text listing-description">
+promoting inclusion and deconstructing beauty standards through a fashion website that gives underrepresented models a space to share their stories and showcase their unique…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Apr 22, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
@@ -437,6 +514,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">© Ramatoulaye Bah, 2023<br> All content licensed under <i class="bi-badge-cc"></i> <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">(CC BY-NC-SA 4.0)</a></div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">Site built with <a href="https://quarto.org/">Quarto</a></div>
+  </div>
+</footer>
 
 
 

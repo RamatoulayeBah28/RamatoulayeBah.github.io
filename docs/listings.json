@@ -1,6 +1,10 @@
 [
   {
     "listing": "/projects.html",
-    "items": []
+    "items": [
+      "/Projects/Cupid's Game Jam/index.html",
+      "/Projects/Hangman Game/index.html",
+      "/Projects/Project Beauty/index.html"
+    ]
   }
 ]
