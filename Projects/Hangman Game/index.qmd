@@ -7,7 +7,7 @@ image: hangmangame.png
 draft: false
 ---
 
-[{{< fa brands github >}} Source Code](https://github.com/RamatoulayeBah28/Hangman-Game){.btn target=_blank}
+[{{< fa brands github >}} Source Code](https://github.com/RamatoulayeBah28/Hangman-Game){.btn target="_blank"}
 
 <br>
 
@@ -19,13 +19,13 @@ This project was implemented as a final project for my COMP 123 class: Core Conc
 
 As a team:
 
-We learned and familiarized ourselves with Tkinter. By using a GUI to display our Hangman Game, we were able to play around with positioning, buttons, and labels. When running into errors and debugging, we problem-solved and learned to identify issues in our code. This helped to hone our skills in troubleshooting and overcoming coding challenges. The overall concept of the game worked out the way we thought it would. The functionalities and ideas of the game weren’t too complicated since we all had a good grasp of how the game works. It was surprising to see how we could enrich our GUI by incorporating different aspects and components. Initially, we had not expected such versatility but as we worked on it we found potential to include more and more creative elements; the images and hangman figure in particular. Additionally, it was interesting to observe how the placement of the image at different locations in the code would either make it work or fail. From this, we learned how important it is to understand the context and order of the code. 
+We learned and familiarized ourselves with Tkinter. By using a GUI to display our Hangman Game, we were able to play around with positioning, buttons, and labels. When running into errors and debugging, we problem-solved and learned to identify issues in our code. This helped to hone our skills in troubleshooting and overcoming coding challenges. The overall concept of the game worked out the way we thought it would. The functionalities and ideas of the game weren’t too complicated since we all had a good grasp of how the game works. It was surprising to see how we could enrich our GUI by incorporating different aspects and components. Initially, we had not expected such versatility but as we worked on it we found potential to include more and more creative elements; the images and hangman figure in particular. Additionally, it was interesting to observe how the placement of the image at different locations in the code would either make it work or fail. From this, we learned how important it is to understand the context and order of the code.
 
 For future extensions, we will probably do some things differently. For example, we will add music and offer the user a more personalized experience by providing them with the option to choose from multiple themed dictionaries. Once they pick a theme, the user can guess words associated with that theme. Moreover, we would like to have implemented a larger window with more aesthetically pleasing GUI display visuals.
 
 <br>
 
-## <img class="img-styling" src="victory.png" alt="Happy squirrel pic showing up when the user guesses the word correctly in our game" width="70%">
+## <img src="victory.png" alt="Happy squirrel pic showing up when the user guesses the word correctly in our game" class="img-styling" width="70%"/>
 
 ::: {.gray-italic .center-text}
 Happy squirrel pic showing up when the user guesses the word correctly in our game
@@ -33,7 +33,7 @@ Happy squirrel pic showing up when the user guesses the word correctly in our ga
 
 <br>
 
-## <img class="img-styling" src="lose.png" alt="Sad squirrel pic showing up when the user guesses the word wrong after six attempts in our game" width="70%">
+## <img src="lose.png" alt="Sad squirrel pic showing up when the user guesses the word wrong after six attempts in our game" class="img-styling" width="70%"/>
 
 ::: {.gray-italic .center-text}
 Sad squirrel pic showing up when the user guesses the word wrong after six attempts in our game
@@ -41,7 +41,7 @@ Sad squirrel pic showing up when the user guesses the word wrong after six attem
 
 <br>
 
-## <img class="img-styling" src="teamphoto.jpg" alt="My team and I with the happy squirrel pic for when the user guesses the word in our game" width="70%">
+## <img src="teamphoto.jpg" alt="My team and I with the happy squirrel pic for when the user guesses the word in our game" class="img-styling" width="70%"/>
 
 ::: {.gray-italic .center-text}
 My team for the final project holding the squirrel victory picture

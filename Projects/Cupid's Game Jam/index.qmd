@@ -7,7 +7,7 @@ image: gamepage.png
 draft: false
 ---
 
-[{{< fa brands github >}} Source Code](https://github.com/RamatoulayeBah28/CupidJam){.btn target=_blank}
+[{{< fa brands github >}} Source Code](https://github.com/RamatoulayeBah28/CupidJam){.btn target="_blank"}
 
 <br>
 
@@ -21,18 +21,18 @@ A Squirrel's Tail has been developed in Python programming language using the Py
 
 With the limited time we had to complete the game, here are some modifications we would've added if we had more time:
 
-- Have the play window the same size as the Main Menu window to make it an almost full-screen game
-- Improve the accuracy of the collision between squirrel and platform
-- Use the up or space keys to jump rather than having the squirrel consistently jump up and down
-- Add more sound effects for when the squirrel jumps or when the user loses
-- Add levels of difficulties (Level 1, Level 2, Level 3 etc), and at the end of each level the squirrel reaches its lover (instead of an endless high-score game)
-- Collect hearts equivalent to points on the hard-to-reach platforms
-- Add a cursor, a pause, quit, restart, and menu button to the Game window
-- Design the Game Over screen to something related to the theme
+-   Have the play window the same size as the Main Menu window to make it an almost full-screen game
+-   Improve the accuracy of the collision between squirrel and platform
+-   Use the up or space keys to jump rather than having the squirrel consistently jump up and down
+-   Add more sound effects for when the squirrel jumps or when the user loses
+-   Add levels of difficulties (Level 1, Level 2, Level 3 etc), and at the end of each level the squirrel reaches its lover (instead of an endless high-score game)
+-   Collect hearts equivalent to points on the hard-to-reach platforms
+-   Add a cursor, a pause, quit, restart, and menu button to the Game window
+-   Design the Game Over screen to something related to the theme
 
 <br>
 
-## <img class="img-styling" src="squirreltail.jpg" alt="Me holding the mic presenting the game to other participants at the Finale Event" width="70%">
+## <img src="squirreltail.jpg" alt="Me holding the mic presenting the game to other participants at the Finale Event" class="img-styling" width="70%"/>
 
 ::: {.gray-italic .center-text}
 Me presenting the game to the other participants of the Game Jam and to students and faculty members present at the Finale Event
@@ -40,7 +40,7 @@ Me presenting the game to the other participants of the Game Jam and to students
 
 <br>
 
-## <img class="img-styling" src="finalpic.jpg" alt="Picture with all the participants of the game jam" width="70%">
+## <img src="finalpic.jpg" alt="Picture with all the participants of the game jam" class="img-styling" width="70%"/>
 
 ::: {.gray-italic .center-text}
 All the teams that participated in the Game Jam alongside members of the Game Devs at Mac organization
@@ -48,7 +48,7 @@ All the teams that participated in the Game Jam alongside members of the Game De
 
 <br>
 
-## <img class="img-styling" src="teampic.png" alt="Me and the other member of my group as squirrels on motorcycles" width="70%">
+## <img src="teampic.png" alt="Me and the other member of my group as squirrels on motorcycles" class="img-styling" width="70%"/>
 
 ::: {.gray-italic .center-text}
 Introductory picture to our team, Cupid's-Ame (Cupid's Aim / Game) with us as squirrels on motorcycles.
