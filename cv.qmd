@@ -3,6 +3,8 @@ title: "Ramatoulaye Bah - CV"
 editor: visual
 ---
 
+<i class='bi-download'></i> Download my <a href="https://drive.google.com/file/d/1uYGDVPwaa7qwx0tW8p-CmIUWgGqrVmKz/view?usp=sharing" target="_blank">CV</a>.
+
 ## Overview
 
 **Currently:** Freshman student double majoring in Computer Science and Linguistics with a minor in Spanish at Macalester College working as a Library Access & Research Aide at the DeWitt Wallace Library. **Previously:** [United World College](https://www.uwc.org/) Alumna receiver of a full scholarship to study in a prestigious liberal arts school in the US and another to study at an international high school in the Netherlands
