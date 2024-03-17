@@ -7,7 +7,7 @@ image: projectbeautylogo.jpg
 draft: false
 ---
 
-[{{< fa laptop >}} Project Beauty Website](https://ziaowens.wixsite.com/project-beauty){.btn target="_blank"} [{{< instagram >}} Project Beauty Instagram](https://www.instagram.com/projectbeauty.nl/){.btn target="_blank"}
+[{{< fa laptop >}} Project Beauty Website](https://ziaowens.wixsite.com/project-beauty){.btn target="_blank"} [{{< fa brands instagram >}} Project Beauty Instagram](https://www.instagram.com/projectbeauty.nl/){.btn target="_blank"}
 
 <br>
 
