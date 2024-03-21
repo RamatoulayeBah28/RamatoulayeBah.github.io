@@ -22,5 +22,9 @@
   },
   "Projects/Cupid's Game Jam/index.qmd": {
     "index.html": "d7e6b666"
+  },
+  "fontawesome/example.qmd": {
+    "example.html": "303edd75",
+    "example.tex": "ab2d2218"
   }
 }

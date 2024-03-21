@@ -24,7 +24,7 @@ about:
 
 :::{#intro-heading}
 
-I'm currently a Freshman student at Macalester College. I plan on pursuing a Bachelor of Arts Degree in Computer Science and Linguistics with a minor in Spanish. Of French nationality and Guinean origin, I thrive to have a positive impact on my communities and I hope to use technology and the skills I foster daily as tools to achieve this goal. I'm passionate about soccer, languages, social justice, and discovering new things every day! [More about me](https://ramatoulayebah28.github.io/RamatoulayeBah.github.io/about.html)
+I'm currently a Freshman student at Macalester College. I plan on pursuing a Bachelor of Arts Degree in Computer Science and Linguistics with a minor in Spanish. Of French nationality and Guinean origin, I thrive to have a positive impact on my communities and I hope to use technology and the skills I foster daily as tools to achieve this goal. I'm passionate about soccer, languages, social justice, and discovering new things every day! [More about me](https://ramatoulayebah28.github.io/about.html)
 
 ## Education
 
