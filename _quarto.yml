@@ -33,7 +33,7 @@ website:
   page-footer:
       background: light
       left: |
-        &copy; Ramatoulaye Bah, 2023<br>
+        &copy; Ramatoulaye Bah, 2024<br>
         All content licensed under <i class='bi-badge-cc'></i>
         [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
       right: |

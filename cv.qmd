@@ -3,17 +3,15 @@ title: "Ramatoulaye Bah - CV"
 editor: visual
 ---
 
-<i class='bi-download'></i> Download my <a href="https://drive.google.com/file/d/1Fu7IZATItP9AOV5dGe-cfZ9lZ6rGyQ7D/view?usp=sharing" target="_blank">CV</a>.
-
 ## Overview
 
-**Currently:** Freshman student double majoring in Computer Science and Linguistics with a minor in Spanish at Macalester College working as a Library Access & Research Aide at the DeWitt Wallace Library. **Previously:** [United World College](https://www.uwc.org/) Alumna receiver of a full scholarship to study in a prestigious liberal arts school in the US and another to study at an international high school in the Netherlands
+**Currently:** Rising Sophomore student double majoring in Computer Science and Linguistics with a minor in Spanish at Macalester College working as a Library Access & Research Aide at the DeWitt Wallace Library and playing for the Macalester Women's Soccer Program. **Previously:** [United World College](https://www.uwc.org/) Alumna receiver of a full scholarship to study in a prestigious liberal arts school in the US and another to study at an international high school in the Netherlands
 
 ## Education
 
-**Macalester College: Bachelor of Arts, Computer Science & Linguistics. 4.0 GPA (Expected May 2027)**
+**Macalester College: Bachelor of Arts, Computer Science & Linguistics. 3.87 GPA (Expected May 2027)**
 
--   Relevant Coursework: Object-Oriented Programming, Core Concepts in CS, Multivariable Calculus I, Harvard CS50x’s Introduction to Computer Science
+-   Relevant Coursework: Object-Oriented Programming, Core Concepts in CS, Multivariable Calculus I, Harvard CS50x’s Introduction to Computer Science, Code Institute 5 Day Coding Challenge
 - Awards: Davis UWC Scholarship, Kofi Annan Scholarship
 -   Macalester College, Saint Paul, MN 55105
 
@@ -40,7 +38,7 @@ editor: visual
 -   Conducted research assistance for students, helping them navigate databases and online resources effectively (interlibrary loans, course reserves, etc).
 
 **826 MSP**
-**After-School Creative Lab Tutor - Volunteer (Oct 2023 - Present)**
+**After-School Creative Lab Tutor - Volunteer (Oct 2023 - May 2024)**
 
 826 MSP empowers BIPOC K–12 students to think creatively, write effectively, and succeed academically. 
 
@@ -62,13 +60,22 @@ editor: visual
 - Organized and led monthly BIPOC in MSCS nights, overseeing logistics, promotion, food arrangements, and space setup. 
 - Coordinated Student Feedback Sessions to close the gap between faculty and students and improve overall satisfaction.
 
+**Project Beauty - Co-Founder / Co-Leader**
+
+Youth social entrepreneurship project aimed at creating a more diverse, inclusive and sustainable fashion industry to deconstruct beauty standards.
+
+- Organized a photo shoot to promote underrepresented models and their stories.
+- Created a platform and an Instagram account with over 3000 views to increase our project’s visibility.
+- Partnered with local thrift stores to promote sustainable clothing.
+- Received a 300 euros award for the implementation and impact of the project.
+
 ## Skills & Interests
 
-**Soft Skills:** Customer Service, Critical Thinking, Teamwork
+**Soft Skills:** Customer Service, Critical Thinking, Teamwork, Problem Solving
 
 **Technical:** Python, Java, C, RStudio, Algorithm, Data Structures, HTML, CSS, JavaScript
 
-**Interests:** Soccer, Social Justice, Travel, Books 
+**Interests:** Soccer, Social Justice, Travel, Reading (fantasy/fiction books) 
 
 **Languages:** French (Native), English (Fluent), Spanish (Advanced)
 

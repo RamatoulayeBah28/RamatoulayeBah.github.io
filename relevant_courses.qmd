@@ -3,6 +3,10 @@ title: "Relevant Courses"
 editor: visual
 ---
 
+### Code Institute 5 Day Coding Challenge
+
+This coding bootcamp is to learn the basics of HTML, CSS & JavaScript. Through building a Webpage participants delve into styling with CSS, HTML 5 & The Semantic Web, Responsive Design and JavaScript basics. On completion of this coding course, a certificate of completion will be received.
+
 ## COMP 127 - Object-Oriented Programming and Abstraction
 
 This course is an introduction to the building blocks of software design: abstraction, decomposition, and encapsulation. Using object-oriented programming in Java, we create graphics, games, and simulations, and explore natural language processing. Topics include: classes, objects, polymorphism, inheritance, testing, refactoring, events, closures, streams, immutability, parallel programming, and version control. The course culminates in a student-designed project. There is a required 1.5 hour laboratory section associated with this course.
