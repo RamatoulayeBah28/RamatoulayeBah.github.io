@@ -3,7 +3,7 @@ title: "Relevant Courses"
 editor: visual
 ---
 
-### Code Institute 5 Day Coding Challenge
+### Code Institute 5-Day Coding Challenge
 
 This coding bootcamp is to learn the basics of HTML, CSS & JavaScript. Through building a Webpage participants delve into styling with CSS, HTML 5 & The Semantic Web, Responsive Design and JavaScript basics. On completion of this coding course, a certificate of completion will be received.
 
