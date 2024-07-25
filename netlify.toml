@@ -1,5 +1,5 @@
 [build]
-command = "curl -fsSL https://quarto.org/download/latest/quarto-linux-amd64.deb -o quarto.deb && sudo dpkg -i quarto.deb && quarto render"
+command = "curl -fsSL https://quarto.org/download/latest/quarto-linux-amd64.tar.gz | tar -xz -C /usr/local/bin && quarto render"
 publish = "docs"
 
 [[redirects]]
