@@ -128,7 +128,7 @@ window.Quarto = {
 };
 </script>
 
-<meta property="og:title" content="Projects – Ramatoulaye Bah">
+<link rel="alternate" type="application/rss+xml" title="Ramatoulaye Bah" href="projects.xml" data-external="1"><meta property="og:title" content="Projects – Ramatoulaye Bah">
 <meta property="og:site_name" content="Ramatoulaye Bah">
 </head>
 
@@ -406,7 +406,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/playful-phoenix-63df40\.netlify\.app");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
